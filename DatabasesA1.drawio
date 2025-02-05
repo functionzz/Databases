@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.11">
   <diagram name="Page-1" id="0XYR_GX21Qhjts9TqkyV">
-    <mxGraphModel dx="1521" dy="335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2021" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,12 +51,6 @@
         </mxCell>
         <mxCell id="vOTe-QLmusaoE5qEw0vW-38" value="Patient" style="whiteSpace=wrap;html=1;align=center;strokeColor=default;verticalAlign=middle;fontFamily=Verdana;fontSize=7;fontColor=default;labelBackgroundColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="160" y="435" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vOTe-QLmusaoE5qEw0vW-89" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Verdana;fontSize=7;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1232.5" y="575" as="sourcePoint" />
-            <mxPoint x="1275" y="615" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="9Wn79j_09oTSSWoXO-Nu-33" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=top;fontFamily=Verdana;fontSize=7;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vOTe-QLmusaoE5qEw0vW-39" target="9Wn79j_09oTSSWoXO-Nu-34" edge="1">
           <mxGeometry relative="1" as="geometry">
